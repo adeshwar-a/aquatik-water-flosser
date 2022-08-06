@@ -1,5 +1,7 @@
 ## Aquatik Water Flosser
 
+![This is an image](https://1drv.ms/u/s!AjAghOHtjtCkm2WEk0QL93m1_sph?e=Z4ccIj)
+
 You can use the [editor on GitHub](https://github.com/adeshwar-a/aquatik-water-flosser/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
@@ -34,4 +36,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Product Support
 
-Having any doubts or clarifications? Reach us to +91 98401 74594 or mail us to aquatikwaterflosser@gmail.com
+Having any doubts or clarifications? Reach us to +91 98401 74594 or mail us at aquatikwaterflosser@gmail.com
